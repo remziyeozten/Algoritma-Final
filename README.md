@@ -1,12 +1,12 @@
 # Algoritma-Final
-Algoritma final projesi b grubu
+Algoritma final projesi a grubu
 -----------------------------------------------------
 
 
 
 - Remziye Özten
 - 241903053
-- Bilişim sistemleri ve teknolojileri
+- Bilişim sistemleri ve teknolojileri a grubu
 
 - Projenin amacı: Operatorleri switch case kullanarak daha rahat bir şekilde işleme alabiliriz.
 
